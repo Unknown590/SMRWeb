@@ -1,0 +1,27 @@
+body{
+  background-color: blue;
+  color: red;  
+}
+h1 {
+    font-size: xx-large;
+    color: red;
+}
+h2 {
+    font-size: x-large;
+    color: black;
+}
+h3 {
+    font-size: large;
+    color: red;
+}
+a {
+    font-size: large;
+    color: red;
+}
+.Emma {
+    width: 41.5%;
+    height: 375px;
+}
+.buttwipe {
+    width: 41.5%;
+}

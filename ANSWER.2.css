@@ -1,0 +1,31 @@
+body {
+    background-color: crimson;
+    color: darkblue;
+    font-family: 'Lora', serif;
+}
+h1 {
+    font-size: xx-large;
+    color: darkblue;
+}
+h2 {
+    font-size: x-large;
+    color: darkblue;
+}
+h3 {
+    font-size: large;
+    color: darkblue;
+}
+li {
+    font-size: medium;
+}
+p {
+    font-size: medium;
+}
+a {
+    color: rgb(235, 33, 241);
+}
+
+.poophead {
+    width: 41%;
+    height: 300px;
+}

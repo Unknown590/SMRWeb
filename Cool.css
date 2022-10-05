@@ -1,0 +1,20 @@
+body {
+    background-color: crimson;
+    color:darkblue;
+    font-family: 'Lora', serif;
+}
+h1 {
+    font-size: xx-large;
+    color:darkblue;
+}
+h2 {
+    font-size: x-large;
+    color: darkblue;
+}
+h3 {
+    font-size: larger;
+    color: darkblue;
+}
+a {
+    color: rgb(235, 33, 241);
+}
