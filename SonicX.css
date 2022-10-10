@@ -18,6 +18,9 @@ a{
     margin: 0;
     padding: 0;
   }
+  .bum{
+    width: 50%;
+  }
   
   nav{
       width: 100%;
