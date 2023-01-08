@@ -33,6 +33,20 @@ body{
     background-color: grey;
 }
 .toot_god{
-    height: 35%;
-    width: 35%;
+    height: 60%;
+    width: 60%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.lawn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 131px;
 }
