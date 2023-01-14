@@ -1,11 +1,17 @@
 body{
     background-color: white;
 }
+.vroom{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 430px;
+}
 .SMRWeb{
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 350px;
+  width: 210px;
 }
 /* Add a black background color to the top navigation */
 .topnav {
