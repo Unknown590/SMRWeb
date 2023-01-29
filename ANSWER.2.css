@@ -13,61 +13,7 @@ body{
   margin-right: auto;
   width: 210px;
 }
-/* Add a black background color to the top navigation */
-.topnav {
-    background-color: #333;
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  form {
-    background-color:#333;
-    width: 300px;
-    height: 49px;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  button {
-    all: unset;
-    cursor: pointer;
-    width: 44px;
-    height: 44px;
-    border-left: solid;
-    border-right: solid;
-    border-color: lightslategray;
-  }
-  
-  svg {
-    color: lightgray;
-    fill: currentColor;
-    width: 24px;
-    height: 24px;
-    padding: 10px;
-  }
-  input {
-    all: unset;
-    font: 16px system-ui;
-    color: #fff;
-    height: 100%;
-    width: 100%;
-    padding: 6px 10px;
-    border-left: solid;
-    border-color: lightslategray;
-  }
-  ::placeholder {
-    color:white;
-    opacity: 0.7; 
-  }
+
   
   /* Change the color of links on hover */
   .topnav a:hover {
