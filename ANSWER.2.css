@@ -7,11 +7,25 @@ body{
   margin-right: auto;
   width: 430px;
 }
+.Cave{
+  height: 150px;
+  margin-left: 30.5%;
+  margin-right: 25%;
+}
 .SMRWeb{
     display: block;
   margin-left: auto;
   margin-right: auto;
   width: 210px;
+}
+#comment-box, #post {
+  height: 27.5px;
+  border: solid;
+  border-color: lightslategray;
+  border-radius: 40px;
+}
+#post:hover{
+  background-color: #777;
 }
 /* Add a black background color to the top navigation */
 .topnav {
@@ -27,42 +41,6 @@ body{
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-  }
-  form {
-    background-color:#333;
-    width: 300px;
-    height: 49px;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-  }
-  button {
-    all: unset;
-    cursor: pointer;
-    width: 44px;
-    height: 44px;
-    border-left: solid;
-    border-right: solid;
-    border-color: lightslategray;
-  }
-  
-  svg {
-    color: lightgray;
-    fill: currentColor;
-    width: 24px;
-    height: 24px;
-    padding: 10px;
-  }
-  input {
-    all: unset;
-    font: 16px system-ui;
-    color: #fff;
-    height: 100%;
-    width: 100%;
-    padding: 6px 10px;
-    border-left: solid;
-    border-color: lightslategray;
   }
   ::placeholder {
     color:white;
