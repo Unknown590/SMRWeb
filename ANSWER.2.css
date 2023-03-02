@@ -18,14 +18,14 @@ body{
   margin-right: auto;
   width: 210px;
 }
-#comment-box{
+#comment-box #post{
   height: 32.1px;
   border: solid;
   border-color: lightslategray;
   border-radius: 40px;
   margin: center;
 }
-.post{
+#post{
 height: 40px;
 border: solid;
 border-color: lightslategray;
